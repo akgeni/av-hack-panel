@@ -1,5 +1,6 @@
 # av-hack-panel
 
+## When Finetuning is a good option?
 |   | FineTuning ✅                         | Finetune ❌                                       |
 |---|--------------------------------------|--------------------------------------------------|
 | 1 | Follow output structure format       | Teaching new knowledge.                          |

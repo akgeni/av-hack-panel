@@ -8,5 +8,8 @@
 | 3 | Improving Latency                    | Keeping the model up-to-date                     |
 | 4 | Output Precision, low token usage                     | Limited or low quality data and limited compute. |
 
+## Fine-tuning Best Practices 
+
+[![ ▷ ](https://em-content.zobj.net/content/2020/04/05/yt.png)](https://www.youtube.com/watch?v=Q0GSZD0Na1s)
 
 <img src="images/finetuning-best-practices.png" width="800" height="400" />
